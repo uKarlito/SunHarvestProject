@@ -1,2 +1,0 @@
-LiquidCrystal I2C
-ArduinoJson
