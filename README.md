@@ -60,12 +60,6 @@ Corrente bomba    →      + NASA POWER API             →   "Bomba a 92%"
 4. Clique em **Play ▶**
 5. O IP do ESP32 aparece no LCD e no Serial Monitor
 
-### Dashboard
-
-1. Abra `dashboard/index.html` no navegador
-2. Digite o IP do ESP32 e clique em **CONECTAR**
-3. Ou clique em **DEMO** para ver com dados simulados
-
 ---
 
 *Dados climáticos: [NASA POWER Agroclimatology](https://power.larc.nasa.gov)*  
